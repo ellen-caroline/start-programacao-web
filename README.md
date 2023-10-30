@@ -16,6 +16,6 @@ Para visualizar a página, siga estas etapas simples:
 - Interaja com a Página: Aproveite para interagir com a página, navegar pelos links e botões, e experimentar as funcionalidades.
   - Obs.: Há comentários no meio do código, com anotações do meu aprendizado.
 
-### 📂 Melhorias futuras
+### 📂 Próximos passos
 - Realização de User Research para aprimorar o visual da página, aderindo aos princípios de acessibilidade da WCAG
 - Aplicar meus estudos em UX/UI Design na página
